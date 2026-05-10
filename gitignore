@@ -1,0 +1,13 @@
+# Compiled output
+build/*.com
+build/*.bin
+build/*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+*.swp
+*~
